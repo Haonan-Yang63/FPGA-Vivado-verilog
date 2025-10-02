@@ -1,2 +1,2 @@
 # FPGA-Vivado-verilog
-DNN Accelerator
+FPGA project
